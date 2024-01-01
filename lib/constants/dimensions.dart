@@ -13,6 +13,7 @@ const kSP70x = 70.0;
 const kSP85x = 85.0;
 const kSP90x = 90.0;
 const kSP100x = 100.0;
+const kSP110x = 110.0;
 const kSP350x = 350.0;
 
 //border radius

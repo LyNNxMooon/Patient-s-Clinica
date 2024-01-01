@@ -1,0 +1,16 @@
+const kLogoNameText = "Clinica";
+const kSplashScreenText = "Patient";
+const kProfileText = "Profile";
+const kSettingText = 'Setting';
+const kLoginTitleText = "Login";
+const kEmailTextFormText = 'Email';
+const kPasswordTextFormText = 'Password';
+const kPatientInfoText = "Patient Info";
+const kVisitedLogText = "Visited Log: ";
+const kAddButtonText = "Add";
+const kPatientNameText = "Name: ";
+const kPatientAgeText = "Age: ";
+const kViewDetailText = "View Details";
+const kGoToMedicalRecordText = "Go to Medical Records";
+const kScanNowForTreatmentText = 'Scan Now For Treatment';
+const kPatientProfileTitleText = 'Patient Profile';

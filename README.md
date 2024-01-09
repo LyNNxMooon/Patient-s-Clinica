@@ -23,5 +23,8 @@ Doctors will have their own profile and will be able to view the records by date
  - QR code and QR scanner for pateints and  doctors communication are implemented
  - After Scanning session, the records are automatically fetch with Get method from API✔️
 
+![Untitled design (15)](https://github.com/LyNNxMooon/Patient-s-Clinica/assets/112456534/7e636284-b583-4b75-bee6-6819cb91f89d)
+![Untitled design (16)](https://github.com/LyNNxMooon/Patient-s-Clinica/assets/112456534/21e94267-49e6-47a3-9e69-e50764b4d174)
+
 
 
